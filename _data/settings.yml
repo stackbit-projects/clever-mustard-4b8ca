@@ -1,6 +1,6 @@
 analytics-id: null
 subtitle:
-  active: true
+  active: false
   text: 'Time is an illusion, lunchtime doubly so!!'
 nav:
   pages:
